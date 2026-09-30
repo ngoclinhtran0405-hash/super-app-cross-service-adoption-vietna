@@ -1,0 +1,10 @@
+# Privacy: never commit raw survey data or SmartPLS projects (they embed raw data)
+data/*.csv
+data/*.xlsx
+data/*.sav
+*.splsm
+*.sav
+__pycache__/
+.DS_Store
+.Rhistory
+.Rproj.user/

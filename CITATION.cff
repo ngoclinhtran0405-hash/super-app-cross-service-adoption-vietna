@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use these results, please cite this repository."
+title: "Drivers of Willingness to Use BeFood within the Be Super App: A PLS-SEM Study"
+authors:
+  - family-names: "[Family name]"
+    given-names: "[Given name]"
+date-released: "2025-01-01"
+license: MIT
+keywords: [super app, PLS-SEM, Vietnam, food delivery, technology acceptance]
