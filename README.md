@@ -2,7 +2,7 @@
 
 > PLS-SEM study of 300 young Vietnamese consumers · SmartPLS 4 · Submitted to the **UEH "Young Researcher" Award 2025** (Ho Chi Minh City University of Economics)
 
-**Authors:** [Your Name], [Team members] · **Supervisor:** [Supervisor name]
+**Authors:** Linh Tran· **Supervisor:** Duong Ha My
 **Keywords:** super app, PLS-SEM, TPB, TAM, synergy theory, customer satisfaction, cross-service adoption, Vietnam
 
 ---
