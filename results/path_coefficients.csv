@@ -1,0 +1,31 @@
+from,to,original_sample,sample_mean,std_dev,t_stat,p_value,result
+CL,USE,0.025,0.025,0.066,0.373,0.709,Not supported
+CSA,USE,0.288,0.288,0.07,4.13,0.0,Supported
+FSS,USE,0.207,0.207,0.071,2.9,0.004,Supported
+HSS,USE,0.052,0.056,0.075,0.7,0.484,Not supported
+PBE,CL,0.02,0.021,0.062,0.333,0.739,Not supported
+PBE,CSA,0.242,0.242,0.06,4.024,0.0,Supported
+PBE,FSS,0.089,0.09,0.064,1.375,0.169,Not supported
+PBE,HSS,0.483,0.482,0.056,8.677,0.0,Supported
+PBE,SSS,0.335,0.336,0.059,5.667,0.0,Supported
+PBE,VSS,0.485,0.485,0.055,8.774,0.0,Supported
+PPF,CL,0.335,0.331,0.065,5.127,0.0,Supported
+PPF,CSA,0.188,0.188,0.064,2.941,0.003,Supported
+PPF,FSS,0.229,0.23,0.072,3.187,0.001,Supported
+PPF,HSS,0.065,0.065,0.053,1.226,0.22,Not supported
+PPF,SSS,0.106,0.105,0.053,2.014,0.044,Supported
+PPF,VSS,-0.027,-0.024,0.065,0.41,0.682,Not supported
+PSP,CL,0.218,0.219,0.067,3.268,0.001,Supported
+PSP,CSA,0.095,0.094,0.056,1.679,0.093,Not supported
+PSP,FSS,0.237,0.236,0.074,3.215,0.001,Supported
+PSP,HSS,0.016,0.016,0.052,0.308,0.758,Not supported
+PSP,SSS,0.198,0.197,0.065,3.076,0.002,Supported
+PSP,VSS,0.107,0.105,0.08,1.344,0.179,Not supported
+SEQ,CL,0.301,0.302,0.054,5.573,0.0,Supported
+SEQ,CSA,0.43,0.431,0.049,8.734,0.0,Supported
+SEQ,FSS,0.159,0.158,0.065,2.457,0.014,Supported
+SEQ,HSS,0.264,0.263,0.059,4.442,0.0,Supported
+SEQ,SSS,0.183,0.183,0.06,3.044,0.002,Supported
+SEQ,VSS,0.174,0.174,0.059,2.945,0.003,Supported
+SSS,USE,0.071,0.069,0.073,0.983,0.326,Not supported
+VSS,USE,0.12,0.117,0.063,1.91,0.056,Not supported

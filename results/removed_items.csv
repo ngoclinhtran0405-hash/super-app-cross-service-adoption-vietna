@@ -1,0 +1,8 @@
+item,reason
+USE4,Negative loading
+FSS4,Negative loading
+SSS3,Negative loading in early iterations
+PBE6,Lowest loading < 0.7
+PBE1,Loading < 0.7
+SEQ1,Loading < 0.7
+PBE10,Loading < 0.7
